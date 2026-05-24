@@ -1,11 +1,11 @@
-# 🏬 Google Analytics E-Commerce Executive Performance Dashboard
+# Google Analytics E-Commerce Executive Performance Dashboard
 
-📌 Project Overview
+Project Overview
 An end-to-end data engineering and business intelligence project that transforms raw, digital analytics logs from the global Google Merchandise Store into a production-ready executive dashboard. This pipeline models and analyzes over **$1.03M in total revenue** across **5M web visitors** to deliver high-value business insights on marketing channel ROI, device behavior, and normalized purchasing trends.
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 * **Data Warehouse:** Google BigQuery (Cloud SQL)
 * **BI Platform:** Power BI Desktop
 * **Data Modeling:** Star Schema (1-to-Many Relationships)
@@ -13,7 +13,7 @@ An end-to-end data engineering and business intelligence project that transforms
 
 ---
 
-## 🏗️ Core Engineering Achievements
+## Core Engineering Achievements
 
 ### 1. Robust Cloud Data Modeling & Pipeline Resilience
 * Modeled a full year of granular e-commerce session logs directly inside Google BigQuery. 
@@ -29,7 +29,7 @@ An end-to-end data engineering and business intelligence project that transforms
 
 ---
 
-## 📈 Strategic Business Insights Delivered
+## Strategic Business Insights Delivered
 
 * **Marketing ROI:** Quantified channel execution, proving that while `Direct` traffic represents the strongest brand equity and core revenue pipeline, paid visual display advertisements (`dfa/Display Ads`) act as the critical top-of-funnel fuel driving brand awareness.
 * **Product Strategy:** Discovered that although standard consumer items command high volume, premium branded merchandise commands the highest *Average Order Value*, highlighting a clear cross-selling opportunity.
